@@ -1,6 +1,6 @@
 export default function Login() {
     return (
-        <div>
+        <div className="login-signup-form animated fadeInDown">
             Login
         </div>
     )
