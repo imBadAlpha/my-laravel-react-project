@@ -5,6 +5,7 @@ import { ContextProvicer } from './context/ContextProvider'
 import './index.css'
 import router from './router'
 
+
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <ContextProvicer>
